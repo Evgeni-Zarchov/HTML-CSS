@@ -2,15 +2,16 @@ body {
     background-color: #02475e;
 }
 
-article h2{
+article h2 {
     font-size: 2em;
     color: #fefecc;
     margin: 12px;
     text-align: center;
 }
+
 p {
     color: #fefecc;
-    font-family: Arial,sans-serif;
+    font-family: Arial, sans-serif;
     line-height: 24px;
     padding: 10px;
     text-indent: 30px;
